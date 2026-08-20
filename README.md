@@ -86,23 +86,6 @@ I like building **real-world applications using AI, Machine Learning and Data Sc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITINCHANDER007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITINCHANDER007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NITINCHANDER007&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 💻 **GitHub:** [NITINCHANDER007](https://github.com/NITINCHANDER007)
