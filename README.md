@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitin Chander
 
-<!--
-**NITINCHANDER007/NITINCHANDER007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, and Generative AI**. I enjoy building projects, solving problems, and exploring new technologies in AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Areas of Interest
+
+* 🤖 Artificial Intelligence
+* 📊 Data Science & Machine Learning
+* 🧠 Deep Learning
+* 💬 NLP & Transformers
+* ✨ Generative AI & LLMs
+* 🔎 RAG & Vector Databases
+* 🧩 AI Agents
+* 🐍 Python & Data Analytics
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python • C++ • SQL
+
+**Data Science:**
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
+
+**AI / ML:**
+Machine Learning • Deep Learning • NLP • Transformers • LLMs • Generative AI • RAG
+
+**Development:**
+Flask • FastAPI • REST APIs • Git • GitHub
+
+**Databases & Cloud:**
+MongoDB • SQL • AWS
+
+---
+
+## 🚀 What I'm Building
+
+I like building **real-world applications using AI, Machine Learning and Data Science** and continuously improving my problem-solving and development skills.
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Best Price Finder** — AI-inspired smart shopping application
+
+🔹 **ML Project** — Machine Learning based project
+
+🔹 **Nitin Backend** — Node.js backend with REST APIs and MongoDB
+
+🔹 **Weather Website** — Weather information web application
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NITINCHANDER007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITINCHANDER007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NITINCHANDER007&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+💻 **GitHub:** [NITINCHANDER007](https://github.com/NITINCHANDER007)
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/nitin-chander-b6928120b/
+
+---
+
+### 🚀 Keep Learning • Keep Building • Keep Innovating
